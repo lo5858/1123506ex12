@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.one {
+  border-style: double;
+  border-width: 7px 7px;
+  border-color: red;
+  background-color:lightblue;
+}
+
+p.two {
+  border-style: solid;
+   border-radius: 8px;
+  padding: 4px;
+  border-color: darkcyan;
+  background-color:yellow;
+} 
+
+p.three {
+  border-style: dotted;
+  border-color: gray;
+  background-color:lightgreen;
+} 
+</style>
+</head>
+<body>
+
+
+
+<p class="one">Hello World</p>
+<p class="two">Hello World</p>
+<p class="three">Hello World</p>
+
+
+</body>
+</html>
